@@ -11,3 +11,5 @@ df = pd.DataFrame({
 })
 
 df
+
+st.session_state
