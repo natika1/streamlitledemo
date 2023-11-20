@@ -13,7 +13,6 @@ st.set_page_config(
    initial_sidebar_state="expanded",
 )
 
-st.ballons()
 
 df = pd.DataFrame({
   'first column': [1, 2, 3, 4],
