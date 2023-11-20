@@ -13,6 +13,8 @@ st.set_page_config(
    initial_sidebar_state="expanded",
 )
 
+st.ballons
+
 df = pd.DataFrame({
   'first column': [1, 2, 3, 4],
   'second column': [10, 20, 30, 40]
@@ -20,5 +22,5 @@ df = pd.DataFrame({
 
 df
 
-st.session_state()
-st.ballons()
+st.session_state
+
